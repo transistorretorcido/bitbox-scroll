@@ -1,2 +1,2 @@
 # bitbox-scroll
-Make a simple Menu for Bitbox Console
+Make a simple Loop background for Bitbox Console
